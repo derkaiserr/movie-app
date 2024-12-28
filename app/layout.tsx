@@ -32,9 +32,9 @@ export default function RootLayout({
 </style>
       </head>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased relative pl-[17vw]`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased relative `}
       >
-        <Sidebar />
+        {/* <Sidebar /> */}
         {children}
       </body>
     </html>
