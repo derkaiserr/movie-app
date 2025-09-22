@@ -17,6 +17,7 @@ export default function Home() {
 
   return (
     <div className="pb-10">
+       <div id="hover-root" />
       <Header />
      <Security />
      {/* <Link href="/dashboard">

@@ -7,7 +7,7 @@ import request from "@/api/request";
 import Footer from "@/components/Footer";
 const HomeScreen = () => {
   return (
-    <div className="">
+    <div className="bg-gray-900">
 
   
 
